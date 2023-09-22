@@ -19,7 +19,7 @@ Notebook para display
 ### Componentes de Software
 Código do nó sensor, ver código em /codigo_no_sensor
 
-Código do nó base, ver código em /codigo_nó_base
+Código do nó base, ver código em /codigo_no_base
 
 Código do notebook display, ver código em /codigo_notebook_display
 
