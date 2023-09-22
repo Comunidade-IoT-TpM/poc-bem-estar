@@ -29,8 +29,9 @@ Arthur Alves dos Santos Neto
 
 Caio Moreira de Souza
 
-Heitor Escobar
+Heitor Escobar Souza
 
 ## Contato
 Arthur Alves dos Santos Neto (aas.neto7@gmail.com)
-
+Heitor Escobar Souza
+Caio Moreira de Souza
