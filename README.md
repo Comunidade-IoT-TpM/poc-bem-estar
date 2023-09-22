@@ -9,10 +9,10 @@ Poc para demonstrar o uso de sensores e comunicação sem fio
 ## Componentes da Solução 
 ### Componentes de Hardware
 Nó Sensor
--informações
+- informações
 
 Nó Base
--informações
+- informações
 
 Notebook para display
 - windows ou linux
@@ -26,7 +26,9 @@ Código do notebook display, ver código em /codigo_notebook_display
 
 ## Autores 
 Arthur Alves dos Santos Neto
+
 Caio Moreira de Souza
+
 Heitor Escobar
 
 ## Contato
