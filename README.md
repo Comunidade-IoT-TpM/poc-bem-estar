@@ -17,7 +17,7 @@ Nó Base
 Notebook para display
 - windows ou linux
 ### Componentes de Software
-Código do nó sensor, ver código em /codigo_nó_sensor
+Código do nó sensor, ver código em /codigo_no_sensor
 
 Código do nó base, ver código em /codigo_nó_base
 
