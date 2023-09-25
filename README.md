@@ -35,7 +35,8 @@ Nó Base
 
 Notebook para display
 - windows ou linux
-  NOTA: O funcionamento da poc-bem-estar no sistema operacional Linux requer uma alteração em /codigo_notebook_display na linha 31, para isso, comente a linha 30 e ative a linha 31. 
+
+NOTA: O funcionamento da poc-bem-estar no sistema operacional Linux requer uma alteração em /codigo_notebook_display na linha 31, para isso, comente a linha 30 e ative a linha 31. 
 ### Componentes de Software
 Código do nó sensor, ver código em /codigo_no_sensor
 
