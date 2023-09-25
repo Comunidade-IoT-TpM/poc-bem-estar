@@ -15,6 +15,7 @@ Nó Sensor
 - Transdutor digital DHT22
 - Antena omnidirecional
 - Baterias para alimentação do nó sensor, 2x (9800mAh, 4.2V)
+
 Nó Base
 - Rádio BE900
   - Microcontrolador ATMEGA 328
