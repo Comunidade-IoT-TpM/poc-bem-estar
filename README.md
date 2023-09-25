@@ -9,10 +9,19 @@ Poc para demonstrar o uso de sensores e comunicação sem fio
 ## Componentes da Solução 
 ### Componentes de Hardware
 Nó Sensor
-- informações
-
+- Rádio BE900
+  - Microcontrolador ATMEGA 328
+  - CC1101
+- Transdutor digital DHT22
+- Antena omnidirecional
+- Baterias para alimentação do nó sensor, 2x (9800mAh, 4.2V)
 Nó Base
-- informações
+- Rádio BE900
+  - Microcontrolador ATMEGA 328
+  - CC1101
+- Conversor USB-SERIAL
+- Cabo USB
+- Alimentação feita pelo cabo USB
 
 Notebook para display
 - windows ou linux
