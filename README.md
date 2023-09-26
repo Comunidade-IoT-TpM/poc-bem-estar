@@ -12,6 +12,7 @@ Poc para demonstrar o uso de sensores e comunicação sem fio
 - Rede (Net): Essa camada é responsável pela criação de campos que conectam os outros nó sensores fora do alcance do nó base e garante a manutenção do roteamento.
 - Transporte (Transp): Esta camada é responsável pela troca de informações entre os dispositivos fim a fim.
 - Aplicação (Data): De modo geral, a camada data nesta apliação é dedicada a coleta dos dados obtidos pelo sensor, assim, nela são armazenados os dados de temperatura, umidade e RSSI.
+  
   As camadas de gerência (Phy, MAC, Net e Transp) ocupam 4 bytes de informação cada, sobrando 36 bytes para a camada de aplicação (Data)
 ## Componentes da Solução 
 ### Componentes de Hardware
